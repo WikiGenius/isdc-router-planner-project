@@ -14,4 +14,4 @@ To run this project you will need:
 
 Open `project_notebook.ipynb` in a Jupyter notebook and go through the instructions listed there!
 
-![alt Example of soultion from start to goal ](./assist/Screenshot from 2020-10-22 16-57-59.png)
+![alt Example of soultion from start to goal ](.assist/example.png)
